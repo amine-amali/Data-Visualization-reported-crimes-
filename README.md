@@ -1,9 +1,12 @@
 # Data-Visualization-reported-crimes-
-Data Visualization reported crimes between 11/2019 and 11/2021 by Sussex Police
+Data Visualization reported crimes between 11/2019 and 11/2021 by Sussex Police.
+Voila Ipywidgets interactive notebooks changing dynamically with the corresponding buttons.
+Data was downloaded from https://data.police.uk/data/
 
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/88273002/149557289-7c422c5a-95ba-4249-80b7-766ebeb41ead.png">
 
-<img width="1080" alt="image" src="https://user-images.githubusercontent.com/88273002/149556651-48d74e6f-8c8f-4d85-824b-33c6f6dc197a.png">
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/88273002/149557199-c926a721-caf5-4e54-97c7-2125ae54cb83.png">
 
-<img width="1080" alt="image" src="https://user-images.githubusercontent.com/88273002/149556732-0c0ccc04-9198-42ed-8a16-15443dc177ea.png">
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/88273002/149557129-27e4222b-e954-452a-8ee4-4f00a55eb2ab.png">
 <img width="1080" alt="image" src="https://user-images.githubusercontent.com/88273002/149556770-203b49ab-4900-4453-b57a-0ab020f3f47d.png">
 
