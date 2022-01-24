@@ -1,4 +1,4 @@
-# Data-Visualization-reported-crimes-
+# Data-Visualization-reported-crimes
 Data Visualization reported crimes between 11/2019 and 11/2021 by Sussex Police.
 Voila Ipywidgets interactive notebooks changing dynamically with the corresponding buttons.
 Data was downloaded from https://data.police.uk/data/
